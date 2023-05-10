@@ -1,6 +1,7 @@
 ### Hi there 👋
 
-Hey, this is Ben. I'm in the process to changing careers from healthcare IT to software development. I've made a few aborted attempts before, as you can probably tell by my commit history. There's always more to learn. 
+Hey, this is Ben. I'm in the process to changing careers from healthcare IT to software development. I've made a few attempts before, but aborted each time due to financial reasons. Now I'm fortunate enough to be in a spot where time and money aren't as tight. I'm committed to making this change so I can give myself a career that will allow me to be more flexible in where I can live and work, and in what types of projects I work on. I want to make things, and I want those things to be cool and useful. 
+
 <!--
 **BenJerke/BenJerke** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
