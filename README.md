@@ -1,5 +1,6 @@
 ### Hi there 👋
 
+Hey, this is Ben. I'm in the process to changing careers from healthcare IT to software development. I've made a few aborted attempts before, as you can probably tell by my commit history. There's always more to learn. 
 <!--
 **BenJerke/BenJerke** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
