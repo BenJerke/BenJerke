@@ -1,6 +1,12 @@
-### Hi there 👋
+## Hello everyone! 
+I'm Ben! My pronouns are he/him, and I live in Columbus, Ohio. I develop web apps, databases, and console monstrosities to solve problems and have fun. I like Java, JavaScript, Python, and C#; and I want to learn Kotlin and Rust. 
+My current project is a portfolio website that I've just containerized with Docker. I'm planning to deploy it to a Digital Ocean droplet, which I'd like to use for hosting other fun stuff too! 
+Once that's done, I want to update my Sudoku project so that it can run on the web (and maybe support multiplayer?). 
 
-Hey, this is Ben. I'm in the process to changing careers from healthcare IT to software development. I've made a few attempts before, but aborted each time due to financial reasons. Now I'm fortunate enough to be in a spot where time and money aren't as tight. I'm committed to making this change so I can give myself a career that will allow me to be more flexible in where I can live and work, and in what types of projects I work on. I want to make things, and I want those things to be cool and useful. 
+I'm currently looking for work. If you'd like to hire me, that's fantastic! My LinkedIn profile is [here!](https://www.linkedin.com/in/benjerke614/)
+If you'd like to collaborate on a project, I'd like that too! You can e-mail me at benj427@gmail.com - but please follow me on here first, so's I know who you are. 
+
+Have a great day, and good luck with whatever you're working on! 
 
 <!--
 **BenJerke/BenJerke** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
