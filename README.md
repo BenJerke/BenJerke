@@ -1,5 +1,5 @@
 ## Hello everyone! 
-I'm Ben! My pronouns are he/him, and I live in Columbus, Ohio. I develop web apps, databases, and console monstrosities to solve problems and have fun. I like Java, JavaScript, Python, and C#; and I want to learn Kotlin and Rust. 
+I'm Ben! My pronouns are he/him, and I live in Columbus, Ohio. I build web apps, databases, and scripts to solve problems and have fun. I like Java, JavaScript, Python, and C#; and I want to learn Kotlin and Rust. 
 My current project is a portfolio website that I've just containerized with Docker. I'm planning to deploy it to a Digital Ocean droplet, which I'd like to use for hosting other fun stuff too! 
 Once that's done, I want to update my Sudoku project so that it can run on the web (and maybe support multiplayer). 
 
