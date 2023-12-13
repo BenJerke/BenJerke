@@ -1,10 +1,7 @@
 ## Hello everyone! 
-I'm Ben! My pronouns are he/him, and I live in Columbus, Ohio. I build web apps, databases, and scripts to solve problems and have fun. I like Java, JavaScript, Python, and C#; and I want to learn Kotlin and Rust. 
-My current project is a portfolio website that I've just containerized with Docker. I'm planning to deploy it to a Digital Ocean droplet, which I'd like to use for hosting other fun stuff too! 
-Once that's done, I want to update my Sudoku project so that it can run on the web (and maybe support multiplayer). 
-
-I'm currently looking for work. If you'd like to hire me, that's fantastic! My LinkedIn profile is [here!](https://www.linkedin.com/in/benjerke614/)
-If you'd like to collaborate on a project, I'd like that too! You can e-mail me at benj427@gmail.com - but please follow me on here first, so's I know who you are. 
+I'm Ben. My pronouns are he/him, and I live in Columbus, Ohio. 
+My LinkedIn profile is [here!](https://www.linkedin.com/in/benjerke614/)
+If you'd like to collaborate on a project, you can e-mail me at benj427@gmail.com
 
 Have a great day, and good luck with whatever you're working on! 
 
